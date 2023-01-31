@@ -1,1 +1,15 @@
-
+{
+   "name":"Oleg",
+   "age":24,
+   "futuredesiredsalary":600
+   "numberofpets":[
+      {
+         "type":"dog",
+         "number":"1"
+      },
+      {
+         "type":"Fisch",
+         "number":"100"
+      }
+   ]
+}
