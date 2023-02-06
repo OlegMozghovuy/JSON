@@ -1,13 +1,13 @@
-ID
-Summary 
-Project
-Avtor
-Platform
-Sevirity
-Priority
-Description 
-STR
-Ожидаемий результат 
-Фактический результат
-Атачмент
-
+{
+   "nomber":"ID",
+   "opis":24,
+   "product":"Project"
+   "numberofpets": "Avtor"
+   "nomber":"ID",
+   "cross":"Platform"
+   "sevir":"Sevirity"
+   "prior": "Priority"
+         
+      
+   
+}
